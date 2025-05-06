@@ -5,7 +5,7 @@
 #include <sys/shm.h>
 #include <sys/wait.h>
 #include <string.h>
-
+//This code has been changed once
 #define SHM_KEY 6789
 #define SHM_SIZE 64
 
